@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Palushang Foundation-clone",
-    "currentPage": "multi-page-template.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1137,7 +1137,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "postToLoad": "3",
-            "facebookToken": "EAAE777VYAAMBAGZBBSVZBblFXH65a8OfO5hM47ZCdufWgETveTSMe5mGuhWMrx4Xq8BpS9zKJSeT1ewtx4V7tLQXVCcpsobO9BqSbYQWrcSZBZBPzLdwcaweo03qxwJUioM0kL0jeA4NBB2EsnhaqSybHXRAkvuONnsgRI50QJgZDZD",
+            "facebookToken": "EAAE777VYAAMBACOLvb7TJnKzWiXal4TydksbTSxeTdhszimdwxVchSeyf0cmOsFewZBhbRcbPRGMofmrYd0GQFINZCpgZADKcgLuq0ZB9NgZAn4JSCCbidYKnGdqZCYOJNagF2LH7l6wT3mG0nMxsdA9vzCeb0tq2pU8Rt0j5ogWskl20QJePSVZBnJJqRNafsZD",
             "facebook": "",
             "twitter": "lpgpatron",
             "youtube": "UCA_riImCZgbpjAK67rTUFjg",
@@ -9762,7 +9762,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "postToLoad": "10",
-            "facebookToken": "EAAE777VYAAMBAGZBBSVZBblFXH65a8OfO5hM47ZCdufWgETveTSMe5mGuhWMrx4Xq8BpS9zKJSeT1ewtx4V7tLQXVCcpsobO9BqSbYQWrcSZBZBPzLdwcaweo03qxwJUioM0kL0jeA4NBB2EsnhaqSybHXRAkvuONnsgRI50QJgZDZD",
+            "facebookToken": "EAAE777VYAAMBACOLvb7TJnKzWiXal4TydksbTSxeTdhszimdwxVchSeyf0cmOsFewZBhbRcbPRGMofmrYd0GQFINZCpgZADKcgLuq0ZB9NgZAn4JSCCbidYKnGdqZCYOJNagF2LH7l6wT3mG0nMxsdA9vzCeb0tq2pU8Rt0j5ogWskl20QJePSVZBnJJqRNafsZD",
             "facebook": "",
             "twitter": "lpgpatron",
             "youtube": "UCA_riImCZgbpjAK67rTUFjg",
