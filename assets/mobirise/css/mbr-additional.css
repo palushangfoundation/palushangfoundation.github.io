@@ -1499,14 +1499,14 @@ section.lazy-placeholder:after {
 .cid-rDyAmDHGnI {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, #efefef);
+  background-color: #f7c11d;
+  background: linear-gradient(#f7c11d, #ffffff);
 }
 .cid-rDyAmDHGnI .carousel-control {
   background: #000;
 }
 .cid-rDyAmDHGnI .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rDyAmDHGnI .carousel-item {
   -webkit-justify-content: center;
@@ -2243,80 +2243,54 @@ section.lazy-placeholder:after {
 .cid-qzajqq5WCZ .mbr-author-desc {
   color: #232;
 }
-.cid-qzajtcVNI0 {
-  padding-top: 30px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-3-1620x1080.jpg");
-}
-.cid-qzajtcVNI0 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qzajtcVNI0 .media-row {
-  display: flex;
-  justify-content: center;
-}
-.cid-qzajtcVNI0 .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-qzajtcVNI0 .team-item .item-image img {
-  width: 100%;
-}
-.cid-qzajtcVNI0 .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-qzajtcVNI0 .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-qzajtcVNI0 .team-item .item-social {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.cid-qzajtcVNI0 .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-qzajtcVNI0 .team-item .item-caption {
-  background: #efefef;
-}
-.cid-rD3knCuHlI {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #149dcc;
-}
-@media (min-width: 992px) {
-  .cid-rD3knCuHlI .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rD3knCuHlI .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rD3knCuHlI .mbr-text {
-  color: #ffffff;
-}
-.cid-qzajqO2DCC {
-  padding-top: 0px;
+.cid-rDLemKoqWr {
+  padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #232323;
+  background-image: url("../../../assets/images/background3.jpg");
 }
-.cid-qzajqO2DCC .testimonial-text {
-  font-style: italic;
-  font-weight: 300;
+.cid-rDLemKoqWr .testimonials-container {
+  margin: 0 auto;
 }
-.cid-qzajqO2DCC .mbr-author-name {
-  font-weight: bold;
+.cid-rDLemKoqWr .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+  -webkit-justify-content: center;
 }
-.cid-qzajqO2DCC .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
+.cid-rDLemKoqWr .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-rDLemKoqWr .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-rDLemKoqWr .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-rDLemKoqWr .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rDLemKoqWr .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-rDLemKoqWr .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rDLemKoqWr .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
 }
 .cid-rD2eUQb6rI {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rD2eUQb6rI .socicon-bg-facebook {
@@ -2894,13 +2868,13 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rD2n8JiFax {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #c4bc3b, #c4bc3b);
 }
 .cid-rD2n8JiFax .mbr-iconfont-social {
   font-size: 32px;
-  color: #ff3366;
+  color: #232323;
 }
 .cid-rD2n8JiFax .social-list a:focus {
   text-decoration: none;
@@ -2927,8 +2901,8 @@ section.lazy-placeholder:after {
   min-height: 188px;
 }
 .cid-rD2n4D3GTa {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
 .cid-rD2n4D3GTa .socicon-bg-facebook {
@@ -3451,8 +3425,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rD2pbMQDrI {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rD2pbMQDrI [class^="socicon-"]:before,
@@ -3950,7 +3924,7 @@ section.lazy-placeholder:after {
   margin: 0 0 .5rem 0;
 }
 .cid-rD2sf9IW2b {
-  padding-top: 120px;
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #0a1b42;
 }
@@ -3969,7 +3943,7 @@ section.lazy-placeholder:after {
 }
 .cid-rD2s4MBPHm {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rD2s4MBPHm .socicon-bg-facebook {
@@ -5034,12 +5008,15 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rD2vdFA23v {
-  padding-top: 15px;
+  padding-top: 120px;
   padding-bottom: 15px;
-  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+  background: linear-gradient(45deg, #ffffff, #25aab2);
 }
 .cid-rD2vdFA23v .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-rD2vdFA23v H2 {
+  color: #232323;
 }
 .cid-rD2v35arcI {
   padding-top: 15px;
@@ -5647,7 +5624,7 @@ section.lazy-placeholder:after {
 }
 .cid-rDvY7gAKFw {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rDvY7gAKFw .mbr-section-subtitle {
@@ -8388,8 +8365,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rD2HwJa1Ab {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rD2HwJa1Ab [class^="socicon-"]:before,
@@ -9894,8 +9871,8 @@ section.lazy-placeholder:after {
 }
 .cid-rDkNgqscWA {
   padding-top: 90px;
-  padding-bottom: 15px;
-  background-color: #149dcc;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-rDkNgqscWA .mbr-section-subtitle {
   color: #767676;
@@ -10105,8 +10082,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rDkLNtrzcw {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rDkLNtrzcw .title {
