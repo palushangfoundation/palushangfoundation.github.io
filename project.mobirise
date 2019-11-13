@@ -10217,7 +10217,7 @@
         "title": "SOCIAL",
         "order": 14,
         "header_custom": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-cd21e216-9f95-4eec-8502-b1204a07839f\"></div>",
-        "footer_custom": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-cd21e216-9f95-4eec-8502-b1204a07839f\"></div>",
+        "footer_custom": "",
         "html_before": ""
       },
       "components": [
