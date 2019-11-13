@@ -80,7 +80,7 @@
         "meta_descr": "Palushang Foundation",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-cd21e216-9f95-4eec-8502-b1204a07839f\"></div>",
+        "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/a-1024x473.jpg"
       },
       "components": [
