@@ -1500,14 +1500,13 @@ section.lazy-placeholder:after {
 .cid-rDyAmDHGnI {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #f7c11d;
-  background: linear-gradient(#f7c11d, #ffffff);
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-rDyAmDHGnI .carousel-control {
   background: #000;
 }
 .cid-rDyAmDHGnI .mbr-section-subtitle {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rDyAmDHGnI .carousel-item {
   -webkit-justify-content: center;
