@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Palushang Foundation-clone",
-    "currentPage": "index.html",
+    "currentPage": "page14.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10623,7 +10623,7 @@
             "postToLoad": 3,
             "facebookToken": "",
             "facebook": "",
-            "twitter": "",
+            "twitter": "lpgpatron",
             "youtube": "",
             "bgColorRadio": true,
             "bgColor": "#fff",
