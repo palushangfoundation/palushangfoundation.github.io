@@ -10648,7 +10648,7 @@
             "sound": "https://soundcloud.com/patron-s-lu/tracks",
             "autoplay": false,
             "fullWidth": true,
-            "bgColor": "#fff"
+            "bgColor": "#0a1b42"
           },
           "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F50636879&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
           "soundURL": "url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F50636879",
